@@ -1,0 +1,9 @@
+.idea/
+*.iml
+
+*.pyc
+*__pycache__*
+
+result/
+data/*training*
+data/*test*
